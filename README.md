@@ -24,6 +24,8 @@ This project showcases an interactive Sales Performance Dashboard built in Micro
 - Discount & Profit Analysis
 - Interactive Filters and Slicers
 
+- ![Sales Dashboard Screenshot](screenshots/Sales_Dashboard.png)
+
 ## Key Insights
 - Higher discounts were associated with lower profit margins.
 - Some Furniture sub-categories recorded low profitability despite strong sales.
@@ -34,8 +36,9 @@ This project showcases an interactive Sales Performance Dashboard built in Micro
 - Improve pricing and inventory strategies for underperforming sub-categories.
 - Monitor both sales and profit when evaluating business performance.
 
-## Repository Contents
+- ![Executive Summary Screenshot](screenshots/executive_summary.png)
 
+## Repository Contents
 - Sales Dashboard.pbix – Power BI dashboard
 - Raw Data – Original dataset
 - Cleaned Data – Prepared dataset
