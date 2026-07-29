@@ -44,7 +44,7 @@ This project showcases an interactive Sales Performance Dashboard built in Micro
 - Cleaned Data – Prepared dataset
 - README.md – Project documentation
 - Dashboard Screenshot – Preview of the dashboard
-
+- Data_Dictionary - Describes dataset column
 ## Skills Demonstrated
 - Data Cleaning
 - Data Modelling
